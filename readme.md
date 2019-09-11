@@ -1,3 +1,4 @@
 Matthew Uy, 20459908
 
-![Alt text](/Users/matthewjohannsiyuy/eclipse-workspace/Lab1/lab1.png?raw=true "Optional Title")
+![Settings Window](https://github.com/mjsuy/comp-3111-lab1-demo/blob/master/lab1.png)
+
